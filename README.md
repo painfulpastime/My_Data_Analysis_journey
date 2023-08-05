@@ -14,11 +14,11 @@ My [website](https://bit.ly/39v60y0)
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Premier League Data Wrangling with Pandas](#Premier League Data Wrangling with Pandas)
-	+ [Crime Data Analysis with excel](#Crime Data Analysis with excel)
-	+ [Parch & Posey SQL analysis](#Parch & Posey SQL analysis)
-	+ [Shark Tank Data visualization Project](#Shark Tank Data visualization Project)
-	+ [ALC Student Medical data ](#ALC Student Medical data )
+	+ [Premier League Data Wrangling with Pandas](#Premier-League-Data-Wrangling-with-Pandas)
+	+ [Crime Data Analysis with excel](#Crime-Data-Analysis-with-excel)
+	+ [Parch & Posey SQL analysis](#Parch-&-Posey-SQL-analysis)
+	+ [Shark Tank Data visualization Project](#Shark-Tank-Data-visualization-Project)
+	+ [ALC Student Medical data ](#ALC-Student-Medical-data )
 
 - [Contacts](#contacts)
 
@@ -41,7 +41,7 @@ In this section I will list some of the data analytics projects ive undertaken b
 
 ### Parch & Posey SQL analysis
 **Code:** [ParchandPosey.sqp](https://drive.google.com/file/d/1oX4YrgSDdfUysgUJsgfDaAlgw0u7N9gS/view?usp=sharing)
-**Workbook:** [ParchandPosey Workbook]()    
+**Workbook:** [ParchandPosey Workbook](#notebook.sql)    
 **Description:** Porch & Posey is a fictional paper company's sales data for different paper types (standard, gloss, poster), customer accounts, order transactions, sales people and region. The questions attempted are from the SQL course on Udacity using PostgreSQL.    
 **Skills:** Relational Databases, Cleaning Data, Data queries, Joins, Unions, nested queries, Window functions, Logical Operators, Case Statements
 **Technology:** Joins, subquery, Stored Procedure, Window, Logic   
