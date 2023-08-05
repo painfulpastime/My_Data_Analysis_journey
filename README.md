@@ -4,7 +4,8 @@
 
 Hi, I'm Simon! I am an Electrical Power Engineering student at the African Leadership University with an interest in Data Science and Machine Learning. I am looking to venture into the field of Power Analytics, fusing the two fields together. I am a digital artist during my free time, and I run my own Design Brand INCOGNITO™. I would love to collaborate and build with you, or just have coffee or beer. My email is simon.mwaura957@gmail.com. 
 
-My CV in [docs](https://docs.google.com/document/d/14L4qRPo_ZUxGsbI5hEIHg7ZzzqzfKG86wWzK0gpMxso/edit?usp=sharing) 
+My CV in [docs](https://docs.google.com/document/d/14L4qRPo_ZUxGsbI5hEIHg7ZzzqzfKG86wWzK0gpMxso/edit?usp=sharing)
+My [website](https://bit.ly/39v60y0) 
 
 <br>
 <br>
@@ -47,7 +48,7 @@ In this section I will list some of the data analytics projects ive undertaken b
 **Results:** Efficient code, use of indentation, asking effective questions.
 
 ### Shark Tank Data visualization Project
-**Dataset:** [`ya_ad_int_solution.ipynb `](https://data.world/chasewillden/shark-tank-companies/workspace/project-summary?agentid=chasewillden&datasetid=shark-tank-companies)    
+**Dataset:** [shark-tank-companies-data-world](https://data.world/chasewillden/shark-tank-companies/workspace/project-summary?agentid=chasewillden&datasetid=shark-tank-companies)    
 **Presentation:** [Sharktank.pdf`](https://drive.google.com/file/d/1BNnM1uNkSOOFqv7zeyAPBkD_gHbSyARZ/view?usp=sharing)    
 **Description:** Shark Tank is an ABC show where entrepreneurs around the United States can pitch and fundraise their start ups for a stake of their companies. This project explores the data using Power Query for preparation and Tableau for Visualisation to identify key trends.   
 **Skills:** data cleaning, metrics calculations, comparing metrics , visualizing results, drawing conclusions.    
@@ -63,5 +64,5 @@ In this section I will list some of the data analytics projects ive undertaken b
 
 
 ## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/smwaura)
+- LinkedIn: [@smwaura](https://www.linkedin.com/in/smwaura)
 - E-mail: simon.mwaura957@gmail.com
