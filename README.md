@@ -41,7 +41,7 @@ In this section I will list some of the data analytics projects ive undertaken b
 
 ### Parch & Posey SQL analysis
 **Code:** [ParchandPosey.sqp](https://drive.google.com/file/d/1oX4YrgSDdfUysgUJsgfDaAlgw0u7N9gS/view?usp=sharing)
-**Workbook:** [ParchandPosey Workbook](#notebook.sql)    
+**Workbook:** [ParchandPosey Workbook](https://github.com/painfulpastime/My_Data_Analysis_journey/blob/main/notebook.sql)    
 **Description:** Porch & Posey is a fictional paper company's sales data for different paper types (standard, gloss, poster), customer accounts, order transactions, sales people and region. The questions attempted are from the SQL course on Udacity using PostgreSQL.    
 **Skills:** Relational Databases, Cleaning Data, Data queries, Joins, Unions, nested queries, Window functions, Logical Operators, Case Statements
 **Technology:** Joins, subquery, Stored Procedure, Window, Logic   
